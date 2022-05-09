@@ -12,7 +12,7 @@ La piste graphique à suivre est le design Web de l'application kaggle.com.
 
 ## Contraintes techniques
 
-- Vous devez faire un trello pour organiser/planifier les étapes de conception.
+- Vous devez faire un trello ou un readme.md pour organiser/planifier les étapes de conception.
 
 - Votre code sera versionné à l'aide de Git sur Github ou Gitlab.
 
