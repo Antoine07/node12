@@ -40,9 +40,9 @@ Le client aimerait avoir dans son application les matériaux utilisés suivants,
 
 Il y a 7 matières premières et que 3 entreprises :
 
-Bois : frêne , chêne et noyer. Entreprise : BBois
-Fer : acier inox et aluminum. Entreprise : MetaLo
-Plastique. Entreprise : pPlastique.
+- Bois : frêne , chêne et noyer. Entreprise : BBois
+- Fer : acier inox et aluminum. Entreprise : MetaLo
+- Plastique. Entreprise : pPlastique.
 
 Il aimerait également avoir les catégories de meuble suivantes dans lequel il pourrait enregistrer l'ensemble de ses réalisations :
 
