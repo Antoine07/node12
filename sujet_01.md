@@ -65,4 +65,4 @@ Introduisez les éléments suivants dans la rechercher
 
 - L'écart type
 
-5. Proposez une autre recherche sur l'analyse de ses données.
+5. Proposez une autre recherche sur l'analyse de ces données.
