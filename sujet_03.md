@@ -20,6 +20,8 @@ Aidez-vous des supports de cours sur le serveur Git. Sur la partie MongoDB. Dema
 
 - Vous devez faire la partie interface utilisateur à partir du chapitre qui suit ci-dessous.
 
+- Chaque joueur (inscrit) au jeu ne pourra jouer qu'une seule fois.
+
 ## Présentation générale
 
 Le client est un chocolatier il veut organiser un jeu en ligne, une sorte de Yams où le client lancerait 5 dés à l'aide d'un bouton unique. Selon des combinaisons il gagnerait ou pas des/une pâtisserie(s). Il organise ce jeu pour fidéliser sa clientèle et dans une certaine mesure faire parler de lui et de sa chocolaterie au près d'autres clients potentiels. Il a dans ce but accolé sur sa vitrine des affiches publicitaires annonçant le jeu. L'évènement est également largement diffusé auprès de sa propre clientèle à l'aide de flyers qu'il distribue.
