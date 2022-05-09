@@ -16,7 +16,7 @@ La piste graphique à suivre est le design Web de l'application kaggle.com.
 
 - Votre code sera versionné à l'aide de Git sur Github ou Gitlab.
 
-- Utilisez Node.js, Express et un moteur de rendu comme pug ou twing. React peut-être également utiliser pour la partie "front".
+- Utilisez Node.js, Express et un moteur de rendu comme pug, ejs ou twing. React peut-être également utiliser pour la partie "front".
 
 - Si vous n'avez pas vu Node.js vous pouvez utiliser Symfony pour la partie API et React ou Angular.
 
