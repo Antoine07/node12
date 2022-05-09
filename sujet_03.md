@@ -40,7 +40,7 @@ Si elle est gagnante on respectera les combinaisons suivantes :
 
 - Un double (double paire) correspond à 1 pâtisserie gagnée au hasard. Un double : c'est deux fois 2 dés identiques parmi les 5.
 
-Vous devez prendre en compte ce fichier pour concevoir le jeu.
+Voir la partie annexe pour les données.
 
 ### Pages à créer
 
