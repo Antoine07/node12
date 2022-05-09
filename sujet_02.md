@@ -53,9 +53,4 @@ Il aimerait avoir les fonctionnalités suivantes dans son application :
 
 Un système de mot clés sera mis en place pour associer meuble et matière(s) première(s). Ces mots clés sont cliquables et la page présentera le détail de cette matière.
 
-Vous êtes libre sur le choix des technologies à utiliser pour le développement de cette application. Cependant vous devez considéré les points suivants :
-L'utilisation d'une librairie JavaScript comme Chart.js pour la réalisation des graphiques.
-
-Vous devez analyser les besoins du client décrit dans ce document et fournir un schéma de la base de données sous forme d'un pdf.
-
-Le client aimerait que son application s'inspire des modèles suivants : Bootstrap 5 Admin Dashboard Theme.
+Vous devez essayer de vous inspirer d'un graphisme correspondant au domaine spécifique de votre client (partie facultative). Le choix d'un framework CSS est conseillé. Votre rendu devra être dans tous les cas acceptable.
