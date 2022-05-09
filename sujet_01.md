@@ -1,4 +1,4 @@
-# Examen
+# Sujet 01
 
 Dans une application sécurisée par vos soin avec Node/Express, et d'autres technologies, vous allez développer une interface permettant de faire des statistiques sur un Dataset spécifique : le titanic.
 
