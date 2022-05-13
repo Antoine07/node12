@@ -27,6 +27,7 @@ Aidez-vous des supports de cours sur le serveur Git. Sur la partie MongoDB. Dema
 Le client est un chocolatier il veut organiser un jeu en ligne, une sorte de Yams où le client lancerait 5 dés à l'aide d'un bouton unique. Selon des combinaisons il gagnerait ou pas des/une pâtisserie(s). Il organise ce jeu pour fidéliser sa clientèle et dans une certaine mesure faire parler de lui et de sa chocolaterie au près d'autres clients potentiels. Il a dans ce but accolé sur sa vitrine des affiches publicitaires annonçant le jeu. L'évènement est également largement diffusé auprès de sa propre clientèle à l'aide de flyers qu'il distribue.
 
 Il imagine une page Web unique présentant le jeu avec au préalable une inscription nécessaire pour commencer (inscription facultative). Cet évènement durera tant que 50 pâtisseries ne seront pas gagnées. Le jeu n'a pas de limite dans le temps. Et une fois le jeu terminé on affichera la page des résultats. Elle affichera l'ordre dans lequel les pâtisseries auront été gagnée(s) avec leur date et l'heure.
+Nous vous rappelons qu'une personne inscrite ne peut jouer qu'une seule fois.
 
 ### Organisation
 
