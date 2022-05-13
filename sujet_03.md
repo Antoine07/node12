@@ -98,7 +98,8 @@ Vous partirez de la structure des données suivantes libre à vous de la modifie
         { "name" : "Eclairs au chocolat", "number" : 10, "order" : 6},
         { "name" : "Tarte poire chocolat", "number" : 10, "order" : 7},
         { "name" : "Banana  au chocolat", "number" : 10, "order" : 8}
-    ]
+    ],
+ "description" : "Description du jeu de Yam"
 }
 
 ```
